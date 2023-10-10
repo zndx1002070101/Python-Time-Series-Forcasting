@@ -1,4 +1,4 @@
-#Python-Time-Series-Forcasting 
+# Python-Time-Series-Forcasting 
 
 In this guided project, we'll be taking on the role of a trader on the S&P 500 futures desk. Our goal is to build a successful model to forecast how this index will move based on its past behavior. If we can make successful predictions, we can trade these futures effectively and lucratively.
 
